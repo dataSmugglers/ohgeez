@@ -1,0 +1,24 @@
+{
+  "name": "ohgeez",
+  "version": "1.0.0",
+  "description": "Team Awesome",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dataSmugglers/ohgeez.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dataSmugglers/ohgeez/issues"
+  },
+  "homepage": "https://github.com/dataSmugglers/ohgeez#readme",
+  "dependencies": {
+    "install": "^0.11.0",
+    "locomotive": "^0.4.2",
+    "npm": "^6.1.0"
+  }
+}
